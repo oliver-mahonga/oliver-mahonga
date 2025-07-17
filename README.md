@@ -1,7 +1,7 @@
 <!-- Animated Headline -->
 <!-- Animated Professional Headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&center=true&width=800&height=50&lines=Full-Stack+Developer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+UI%2FUX+Designer+%7C+Offline-first+Builder+%7C+System+Thinker+%7C+Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Full-Stack+Developer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+Backend+Engineer+%7C+DevOps+Learner+%7C+Offline-first+Systems+Builder" alt="Typing SVG" />
 </p>
 
 
