@@ -1,7 +1,9 @@
 <!-- Animated Headline -->
+<!-- Animated Professional Headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=800&height=50&lines=Full-Stack+FullStackDeveloper+%7C+Data+Scientist+%7C+ML+Engineer+%7C+UI%2FUX+Designer+%7C+Offline-first+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&center=true&width=800&height=50&lines=Full-Stack+Developer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+UI%2FUX+Designer+%7C+Offline-first+Builder+%7C+System+Thinker+%7C+Clean+Code+Advocate" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">Hi, I'm Oliver Mahonga</h1>
 <h3 align="center">From frontend,CLI applications  to algorithms — I design smart, responsive systems for people and scale..</h3>
