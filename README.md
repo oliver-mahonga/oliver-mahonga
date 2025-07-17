@@ -1,14 +1,14 @@
 <!-- Animated Headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=800&height=50&lines=Full-Stack+Developer+%7C+Data+Scientist+%7C+ML+Engineer+%7C+UI%2FUX+Designer+%7C+Offline-first+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=800&height=50&lines=Full-Stack+FullStackDeveloper+%7C+Data+Scientist+%7C+ML+Engineer+%7C+UI%2FUX+Designer+%7C+Offline-first+Advocate" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Oliver Mahonga</h1>
-<h3 align="center">I build intelligent systems, beautiful interfaces, and tools that work even without the internet.</h3>
+<h3 align="center">From frontend,CLI applications  to algorithms — I design smart, responsive systems for people and scale..</h3>
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oliver-mahonga&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
@@ -67,7 +67,7 @@
 
 ---
 
-## 🧪 Areas of Focus
+##  Areas of Focus
 
 - Offline-first software engineering (LoRa, P2P tech)
 - Clean UI/UX interfaces with responsive design
@@ -77,13 +77,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/oliver-mahonga/oliver-mahonga/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
@@ -98,4 +91,4 @@
 
 ---
 
-<p align="center"><strong>“I don't just write code... I build intelligent systems and offline bridges for the disconnected.”</strong></p>
+<p align="center"><strong>“I craft full-stack applications and deploy ML systems that are fast, resilient, and human-focused..”</strong></p>
