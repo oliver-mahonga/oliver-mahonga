@@ -73,13 +73,14 @@
 
 - Clean UI/UX interfaces with responsive design
 - Data-driven apps, dashboards, and visualizations
+- Offline-first software engineering (LoRa, P2P tech)
 - Intelligent systems using Machine Learning
 - ML Ops: Packaging & Deployment (FastAPI, Docker)
 
 ---
 
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oliver-mahonga-147242295/" target="_blank">
