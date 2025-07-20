@@ -80,7 +80,7 @@
 ---
 
 
-##  Connect With Me
+##  Let's connect 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oliver-mahonga-147242295/" target="_blank">
