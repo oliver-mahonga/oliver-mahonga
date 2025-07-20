@@ -71,7 +71,6 @@
 
 ##  Areas of Focus
 
-- Offline-first software engineering (LoRa, P2P tech)
 - Clean UI/UX interfaces with responsive design
 - Data-driven apps, dashboards, and visualizations
 - Intelligent systems using Machine Learning
