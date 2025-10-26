@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi, I'm Oliver Mahonga</h1>
-<h3 align="center">From frontend,CLI applications  to algorithms — I design smart, responsive systems for people and scale..</h3>
+<h3 align="center">From frontend,backend, CLI applications  to algorithms — I design smart, responsive systems and applications for people and scale..</h3>
 
 ---
 
