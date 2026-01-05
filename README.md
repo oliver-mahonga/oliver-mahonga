@@ -59,13 +59,8 @@
 </p>
 
 ---
-# 👋 Hi, I'm Oliver
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=oliver-mahonga)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliver-mahonga&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-mahonga&layout=compact&theme=tokyonight)
 
 
 
