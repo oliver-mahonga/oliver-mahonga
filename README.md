@@ -59,6 +59,13 @@
 </p>
 
 ---
+# 👋 Hi, I'm Oliver
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliver-mahonga&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-mahonga&layout=compact&theme=tokyonight)
 
 
 
