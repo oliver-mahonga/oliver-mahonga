@@ -59,7 +59,12 @@
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=oliver-mahonga)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=oliver-mahonga&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=oliver-mahonga&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
 
