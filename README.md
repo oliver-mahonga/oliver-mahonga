@@ -1,7 +1,7 @@
 <!-- Animated Headline -->
 <!-- Animated Professional Headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Software+Engineer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+Backend+Engineer+%7C+DevOps+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Software+Engineer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+Backend+Engineer" alt="Typing SVG" />
 </p>
 
 
