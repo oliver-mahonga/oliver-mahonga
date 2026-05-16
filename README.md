@@ -1,99 +1,209 @@
-<!-- Animated Headline -->
-<!-- Animated Professional Headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Software+Engineer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+Backend+Engineer" alt="Typing SVG" />
-</p>
+<div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     HEADER BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi, I'm Oliver Mahonga</h1>
-<h3 align="center">From frontend,backend, CLI applications  to algorithms — I design smart, responsive systems and applications for people and scale..</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Oliver%20Mahonga&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineer.%20Builder.%20Problem%20Solver.&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%" />
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED ROLES                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-##  Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Engineer;Machine+Learning+Engineer;Data+Scientist;Backend+Architect;Offline-First+%26+Edge+Systems+Builder" alt="Typing SVG" />
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+<br/>
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="NextJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SOCIAL BADGES                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
+<a href="https://www.linkedin.com/in/oliver-mahonga-147242295/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/Salvatore_mahon" target="_blank">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://sentinel-blush-seven.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=oliver-mahonga&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
+<br/><br/>
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/>
+</div>
 
-  <!-- Design & UI/UX -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-  <!-- Data Science & ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header" width="100%"/>
 
----
-## 📊 GitHub Stats
+```typescript
+const oliver: Developer = {
+  name       : "Oliver Mahonga",
+  location   : "Kenya",
+  focus      : ["Full-Stack Engineering", "Machine Learning", "MLOps", "Edge Systems"],
+  building   : "Fast, resilient, human-focused software",
+  philosophy : "Clean abstractions. Scalable architecture. Real-world impact.",
+  available  : true,
+};
+```
 
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=oliver-mahonga&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header" width="100%"/>
 
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=oliver-mahonga&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
+<h2>Tech Stack</h2>
 
+**Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
----
+**Frontend**
 
-##  Areas of Focus
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- Clean UI/UX interfaces with responsive design
-- Data-driven apps, dashboards, and visualizations
-- Offline-first software engineering (LoRa, P2P tech)
-- Intelligent systems using Machine Learning
-- ML Ops: Packaging & Deployment (FastAPI, Docker)
+**Backend**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+**Databases**
 
-##  Let's connect 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/oliver-mahonga-147242295/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/Salvatore_mahon" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-@Salvatore_mahon-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-</p>
+**ML & Data Science**
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<p align="center"><strong>“I craft full-stack applications and deploy ML systems that are fast, resilient, and human-focused..”</strong></p>
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=oliver-mahonga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-mahonga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=oliver-mahonga&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=10" height="170"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              CONTRIBUTION SNAKE                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>Contribution Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/oliver-mahonga/oliver-mahonga/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oliver-mahonga/oliver-mahonga/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/oliver-mahonga/oliver-mahonga/output/github-snake-dark.svg" />
+</picture>
+
+> To enable the snake animation, create a GitHub Actions workflow in your repo — see [platane/snk](https://github.com/platane/snk) for setup.
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   AREAS OF FOCUS                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>Areas of Focus</h2>
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**Full-Stack Systems**
+Designing end-to-end web applications — from pixel-perfect frontends to robust, scalable APIs and databases.
+
+</td>
+<td width="50%">
+
+**Machine Learning & MLOps**
+Building intelligent models and deploying them to production using FastAPI, Docker, and reproducible pipelines.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Offline-First & Edge Engineering**
+Architecting resilient software that operates in low-connectivity environments using LoRa and P2P technologies.
+
+</td>
+<td width="50%">
+
+**Data Visualization & Analytics**
+Transforming raw data into decision-driving dashboards, interactive charts, and visual narratives.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    QUOTE / FOOTER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=I+craft+full-stack+applications+and+deploy+ML+systems+that+are+fast%2C+resilient%2C+and+human-focused.&fontSize=13&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%" />
+
+</div>
